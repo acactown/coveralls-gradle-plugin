@@ -23,7 +23,7 @@ dependencies {
 
     testCompile 'junit:junit:4.11'
     testCompile 'org.mockito:mockito-all:1.9.5'
-    testCompile 'com.github.tomakehurst:wiremock:1.18'
+    testCompile 'com.github.tomakehurst:wiremock:2.24.1'
 }
 
 buildscript {
