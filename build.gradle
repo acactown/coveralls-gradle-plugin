@@ -21,7 +21,7 @@ dependencies {
     compile 'org.apache.httpcomponents:httpmime:4.3'
     compile 'org.eclipse.jgit:org.eclipse.jgit:3.6.0.201412230720-r'
 
-    testCompile 'junit:junit:4.11'
+    testCompile 'junit:junit:4.12'
     testCompile 'org.mockito:mockito-all:1.9.5'
     testCompile 'com.github.tomakehurst:wiremock:1.18'
 }
